@@ -1,0 +1,18 @@
+/*
+ * @Author: ityjj yjj1350014591@icloud.com
+ * @Date: 2022-07-01 11:19:52
+ * @LastEditors: ityjj yjj1350014591@icloud.com
+ * @LastEditTime: 2022-07-01 11:36:23
+ * @FilePath: \pro_2\login.css
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
+ body{
+    background-color: aquamarine;
+    text-align: center;
+ }
+div{
+    display: block;
+    color: aqua;
+    font-size: 30px;
+    margin: 50px auto;
+}
